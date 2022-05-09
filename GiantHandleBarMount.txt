@@ -1,6 +1,6 @@
 What is this?
 This is a mount for the handlebar of the Giant Revolt gravel bike. With the 1/4"-20 tripod screw,
-you can then attach any accessory to it.
+you can then attach any accessory to it (eg GoPro action cam).
 
 How should it be printed?
 Print with the flat surface and the screw thread as the base. In this way, no support is required.
@@ -8,5 +8,6 @@ Although I used Nylon, you can use PLA filament.
 
 As I also have a handlebar bag, this model has a height so that the bag will not block the camera.
 If you don't have anything else on your handlebar, do edit the model to a height you are comfortable with.
+Use neoprene or any rubber strip to securely fasten the cable ties to minimise movement.
 
 More details at https://www.youtube.com/watch?v=7PP5X42wqu8
