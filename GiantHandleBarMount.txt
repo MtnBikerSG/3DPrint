@@ -8,6 +8,6 @@ Although I used Nylon, you can use PLA filament.
 
 As I also have a handlebar bag, this model has a height so that the bag will not block the camera.
 If you don't have anything else on your handlebar, do edit the model to a height you are comfortable with.
-Use neoprene or any rubber strip to securely fasten the cable ties to minimise movement.
+Use neoprene or any rubber strip to securely fasten the 5mm cable ties to minimise movement.
 
 More details at https://www.youtube.com/watch?v=7PP5X42wqu8
