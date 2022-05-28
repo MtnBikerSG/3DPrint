@@ -1,0 +1,24 @@
+What is this?
+This is a container for the toptube of the Giant Revolt gravel bike. I use it to keep snacks on long bike ride.
+
+How should it be printed?
+Since you need to add magnets at different parts of the container, print the top and bottom parts separately.
+For support placement, specify only for surfaces touching the buildplate.
+
+To insert the magnets, you would need to pause the printing at the right layer. Pausing can be done manually or by modifying the Gcode file. 
+
+To modify the Gcode: after slicing the model, preview the layers. Note the first layer where the magnet will be
+covered by the filament.
+
+Next, from the main menu, select Extensions, Post-processing, Modify G-code. Add a "Pause at height" script, and use the following parameters:
+- change from Height to Layer Number
+- specify the layer to Pause.
+- Park Print Head X to 0.0 mm
+- Park Print Head Y to 0.0 mm
+- Standby Temperature 160 deg C (for PLA)
+- G-code before Pause: m300
+- G-code after Pause: m300
+
+Finally, slice the model again (with the script) and save the Gcode file.
+
+More details at https://youtu.be/kw4QaHSM8Es
